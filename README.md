@@ -1,8 +1,9 @@
 # ProgressViews
 Android different types of Progress Views
 
-Add it to your project :
-
+## Add it to your project:
+ 
+```groovy
 allprojects {
     repositories {
         // ...
@@ -11,6 +12,7 @@ allprojects {
 }
 
 dependencies {
-	    // ...
-      compile 'com.github.AkshayB777:ProgressViews:1.4'
+	// ...
+        compile 'com.github.AkshayB777:ProgressViews:1.4'
 }
+```
