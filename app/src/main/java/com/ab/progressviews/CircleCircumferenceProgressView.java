@@ -12,6 +12,9 @@ import android.os.Parcelable;
 import android.util.AttributeSet;
 import android.view.View;
 
+/**
+ * Created by Akshay Bhat.
+ */
 public class CircleCircumferenceProgressView extends View {
 
     private static final String INSTANCE_STATE = "instance_state";
