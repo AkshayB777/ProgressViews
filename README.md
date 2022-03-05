@@ -1,4 +1,4 @@
-# ProgressViews
+# ProgressViews for Android apps
 Android different types of Progress Views
 
 ## Add it to your project:
